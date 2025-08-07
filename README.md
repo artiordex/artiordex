@@ -15,7 +15,7 @@ Hi! I'm Shiwoo Min, a Full‑Stack Developer, DevOps Engineer, and Founder of Ar
 I'm passionate about 🤖 AI Agents, ☁️ Cloud-native infrastructure, 🚀 AX & DX. <br>
 I love designing smart solutions that enhance business efficiency 📈 and ensure scalability. -->
 
-<!-- ### 🤝 Connect with Me
+### 🤝 Connect with Me
 <p align="left">
   <a href="mailto:artiordex@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/shiwoo-min-a493aa263/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -25,7 +25,7 @@ I love designing smart solutions that enhance business efficiency 📈 and ensur
   <a href="https://youtube.com/@artiordex"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://slack.com/artiordex-invite"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack"></a>
   <a href="https://discord.gg/artiordex"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
-</p> -->
+</p>
 
 ### 🦉 My Work @Artiordex
 <p align="left">
