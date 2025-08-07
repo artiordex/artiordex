@@ -51,13 +51,18 @@ I love designing smart solutions that enhance business efficiency 📈 and ensur
 <!-- https://github.com/tandpfun/skill-icons#readme -->
 ### 🚀 GitHub Stats 
 <!-- GitHub Stats (커밋 수, 레포 수, 언어 통계 등) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artiordex&show_icons=true&theme=tokyonight)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artiordex&show_icons=true&theme=tokyonight) -->
 <!-- Top Languages (가장 많이 사용한 언어) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artiordex&layout=compact&langs_count=8&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artiordex&layout=compact&langs_count=8&theme=tokyonight) -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=artiordex&show_icons=true&theme=tokyonight" height="180"/> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artiordex&layout=compact&langs_count=8&theme=tokyonight" height="180"/>
+</p>
+
 <!-- GitHub Trophy (활동 메달 🏆) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=artiordex&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- GitHub Streak (연속 커밋 🔥) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=artiordex&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=artiordex&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) -->
 <!-- Contribution Snake (애니메이션 뱀 🐍) https://github.com/Platane/snk -->
 <!-- ![Snake animation](https://github.com/artiordex/artiordex/blob/output/github-contribution-grid-snake.svg) -->
 <!-- ![artiordex github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=artiordex) -->
