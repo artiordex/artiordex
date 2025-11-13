@@ -2,19 +2,22 @@
 <!-- <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:003366,100:00a8cc&height=250&section=header&text=Artiordex%20Official%20GitHub&fontAlignY=40&desc=DX%20%2F%20AX%20기반의%20디지털%20전환%20실행%20파트너&descSize=18&animation=fadeIn&fontSize=45)
-
 </div> -->
 
 <!-- 타이핑 애니메이션 Typing SVG readme-typing-svg -->
 <p align="center">
+<img width="180" height="180" alt="Artiordex_logo3" src="https://github.com/user-attachments/assets/919e9efd-8e4b-4171-af46-46a195d98968" />
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gothic+A1&size=20&duration=2000&pause=1000&color=FFFFFF&width=1000&lines=Designing+DX·AX+solutions+with+Microsoft+ecosystem;AI+Agents+that+automate+and+accelerate+your+workflow;From+DevOps+to+Intelligent+Automation+with+Artiordex)](https://git.io/typing-svg)
 </p>
 
 <!-- 회사소개 -->
 ### 👨‍💻 About Artiordex
-Artiordex is an execution-driven tech studio connecting Digital Transformation(DX) and Automation eXecution(AX)
-By combining the Microsoft ecosystem (Azure, Power Platform, Dynamics 365) with AI automation technologies (OpenAI, LangChain, RPA), we deliver end-to-end solutions—from problem analysis and strategy design to fully deployed services—powered by AI agents, cloud-native DX, workflow automation, and data intelligence.
+Artiordex is an execution-driven tech studio where Digital Transformation meets Automation Excellence. <br>
+Leveraging the Microsoft ecosystem (Azure, Power Platform, Dynamics 365) alongside advanced AI technologies.<br>
+We deliver end-to-end solutions that transform businesses-from strategy to deployment-through AI agents, cloud-native architectures, intelligent workflows, and data-driven insights.
 
 <!-- 회사소셜 및 내 소셜 정보 -->
 ### 🤝 Connect with Me
