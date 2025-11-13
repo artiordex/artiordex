@@ -1,68 +1,95 @@
 <!-- 헤더 -->
 <!-- <div align="center">
-  
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:003366,100:00a8cc&height=250&section=header&text=Artiordex%20Official%20GitHub&fontAlignY=40&desc=DX%20%2F%20AX%20기반의%20디지털%20전환%20실행%20파트너&descSize=18&animation=fadeIn&fontSize=45)
+
 </div> -->
 
-<!-- 타이핑 애니메이션 readme-typing-svg 사용 -->
-<!-- <p align="center">
+<!-- 타이핑 애니메이션 Typing SVG readme-typing-svg -->
+<p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gothic+A1&size=20&duration=2000&pause=1000&color=fffff&width=1000&lines=Build%2C+automate+and+scale+with+Artiordex;Empowering+digital+transformation+with+DX+and+AX;From+DevOps+to+AI+agents+shaping+the+future)](https://git.io/typing-svg)
-</p>  -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gothic+A1&size=20&duration=2000&pause=1000&color=FFFFFF&width=1000&lines=Designing+DX·AX+solutions+with+Microsoft+ecosystem;AI+Agents+that+automate+and+accelerate+your+workflow;From+DevOps+to+Intelligent+Automation+with+Artiordex)](https://git.io/typing-svg)
+</p>
 
-<!-- ### 👨‍💻 About Me
-Hi! I'm Shiwoo Min, a Full‑Stack Developer, DevOps Engineer, and Founder of Artiordex. <br>
-I'm passionate about 🤖 AI Agents, ☁️ Cloud-native infrastructure, 🚀 AX & DX. <br>
-I love designing smart solutions that enhance business efficiency 📈 and ensure scalability. -->
+<!-- 회사소개 -->
+### 👨‍💻 About Artiordex
+Artiordex is an execution-driven tech studio connecting Digital Transformation(DX) and Automation eXecution(AX)
+By combining the Microsoft ecosystem (Azure, Power Platform, Dynamics 365) with AI automation technologies (OpenAI, LangChain, RPA), we deliver end-to-end solutions—from problem analysis and strategy design to fully deployed services—powered by AI agents, cloud-native DX, workflow automation, and data intelligence.
 
+<!-- 회사소셜 및 내 소셜 정보 -->
 ### 🤝 Connect with Me
 <p align="left">
+  <!-- Gmail -->
   <a href="mailto:artiordex@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <!-- Linkedin -->
   <a href="https://www.linkedin.com/in/shiwoo-min-a493aa263/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <!-- Instagram -->
   <a href="https://instagram.com/artiordex"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <!-- Threads -->
   <a href="https://www.threads.net/@artiordex"><img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white" alt="Threads"></a>
+  <!-- Strava -->
   <a href="https://www.strava.com/athletes/artiordex"><img src="https://img.shields.io/badge/Strava-FC4C02?style=flat&logo=strava&logoColor=white" alt="Strava"></a>
+  <!-- Youtube -->
   <a href="https://youtube.com/@artiordex"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <!-- Slack -->
   <a href="https://slack.com/artiordex-invite"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack"></a>
+  <!-- Discord -->
   <a href="https://discord.gg/artiordex"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
+<!-- 아티올덱스 사이트 링크 -->
 ### 🦉 My Work @Artiordex
 <p align="left">
+  <!-- 아티올덱스 워드프레스(동적) -->
   <a href="https://www.artiordex.com/"><img src="https://img.shields.io/badge/Artiordex Home-000000?style=flat&logo=wordpress&logoColor=white" alt="Artiordex Home"></a><br>
+  <!-- 아티올덱스 깃헙페이지(정적) -->
+  <a href="https://www.artiordex.github.io/"><img src="https://img.shields.io/badge/Artiordex Home-000000?style=flat&logo=github&logoColor=white" alt="Artiordex Home"></a><br>
+  <!-- 아티올덱스 네이버 공식 블로그 -->
   <a href="https://blog.naver.com/artiordex"><img src="https://img.shields.io/badge/Artiordex Blog-000000?style=flat&logo=naver&logoColor=white" alt="Artiordex Blog"></a><br>
-  <a href="https://www.notion.so/Artiordex-Official-Notion-20892a86c03b80acb32bccc3be49bc64?pvs=21"><img src="https://img.shields.io/badge/Artiordex | Official Notion-000000?style=flat&logo=notion&logoColor=white" alt="Artiordex Official Notion"></a><br>
-  <a href="https://www.notion.so/Artiordex-Consulting-22792a86c03b808786d5dcbc1054e508?pvs=21"><img src="https://img.shields.io/badge/Artiordex | Consulting-000000?style=flat&logo=notion&logoColor=white" alt="Artiordex Consulting"></a><br>
-  <a href="https://www.notion.so/Artiordex-Tech-Insights-22792a86c03b80d68445e2a7ba53fefb?pvs=21"><img src="https://img.shields.io/badge/Artiordex | Tech Insights-000000?style=flat&logo=notion&logoColor=white" alt="Artiordex Tech Insights"></a><br>
-  <a href="https://www.notion.so/Artiordex-Space-Home-20692a86c03b80e290e7f570db3f8024?pvs=21"><img src="https://img.shields.io/badge/Artiordex | Space Home-000000?style=flat&logo=notion&logoColor=white" alt="Artiordex Space Home"></a>
+  <!-- 아티올덱스 네이버 공식 스토어 -->
+  <a href="https://smartstore.naver.com/artiordex"><img src="https://img.shields.io/badge/Artiordex Blog-000000?style=flat&logo=naver&logoColor=white" alt="ArtiStore"></a><br>
+  <!-- 아티올덱스 노션 | 공식 사이트 -->
+  <a href="https://www.notion.so/artiordex/Artiordex-Official-Notion-20892a86c03b80acb32bccc3be49bc64?pvs=21"><img src="https://img.shields.io/badge/Artiordex | Official Notion-000000?style=flat&logo=notion&logoColor=white" alt="Artiordex Official Notion"></a><br>
+  <!-- 아티올덱스 노션 | 인사이트 -->
+  <a href="https://www.notion.so/artiordex/Artiordex-Tech-Insights-22792a86c03b80d68445e2a7ba53fefb?pvs=21"><img src="https://img.shields.io/badge/Artiordex | Consulting-000000?style=flat&logo=notion&logoColor=white" alt="Artiordex Consulting"></a><br>  
+  <!-- 아티올덱스 노션 | 솔루션 -->
+  <a href="https://www.notion.so/artiordex/Artiordex-Tech-Insights-22792a86c03b80d68445e2a7ba53fefb?pvs=21"><img src="https://img.shields.io/badge/Artiordex | Tech Insights-000000?style=flat&logo=notion&logoColor=white" alt="Artiordex Tech Insights"></a><br>
+  <!-- 아티올덱스 노션 | 컨설팅 -->
+  <a href="https://www.notion.so/artiordex/Artiordex-Consulting-22792a86c03b808786d5dcbc1054e508?pvs=21"><img src="https://img.shields.io/badge/Artiordex | Consulting-000000?style=flat&logo=notion&logoColor=white" alt="Artiordex Consulting"></a><br>
+  <!-- 아티올덱스 노션 | 프로젝트 -->
+  <a href="https://www.notion.so/artiordex/Artiordex-Project-20692a86c03b80e290e7f570db3f8024?pvs=21"><img src="https://img.shields.io/badge/Artiordex | Space Home-000000?style=flat&logo=notion&logoColor=white" alt="Artiordex Space Home"></a>
 </p>
 
+<!-- 나의 학습 노션 -->
 ### 📚 Life & Work Notes
 <p align="left">
+  <!-- 시버 북마크 및 레퍼런스 -->
   <a href="https://www.notion.so/Reference-23392a86c03b803b97d3c95409c5093c?pvs=21"><img src="https://img.shields.io/badge/Reference-000000?style=flat&logo=notion&logoColor=white" alt="Reference"></a><br>
+  <!-- 시버 개발&업무 기록 -->
   <a href="https://www.notion.so/Dev-Worklog-22792a86c03b8031b989c3639c91dae7?pvs=21"><img src="https://img.shields.io/badge/Dev & Worklog-000000?style=flat&logo=notion&logoColor=white" alt="Dev & Work Log"></a><br>
+  <!-- 시버 스터디&학습 기록 -->
   <a href="https://www.notion.so/Study-Reading-Log-22792a86c03b8078bcffdf1d39055072?pvs=21"><img src="https://img.shields.io/badge/Study & Reading Log-000000?style=flat&logo=notion&logoColor=white" alt="Study & Reading Log"></a><br>
+   <!-- 시버 인사이트 기록 -->
   <a href="https://www.notion.so/Insights-Log-20892a86c03b8002bef6fbdfdb74e626?pvs=21"><img src="https://img.shields.io/badge/Insights Log-000000?style=flat&logo=notion&logoColor=white" alt="Insights Log"></a><br>
+   <!-- 시버 창의적 기록 -->
   <a href="https://www.notion.so/Creative-Log-22792a86c03b80d38f2fedb73a1cc421?pvs=21"><img src="https://img.shields.io/badge/Creative Log-000000?style=flat&logo=notion&logoColor=white" alt="Creative Log"></a><br>
+   <!-- 시버 생활 기록 -->
   <a href="https://www.notion.so/Life-Journal-Log-20892a86c03b803ead65c1c2b281eeb6?pvs=21"><img src="https://img.shields.io/badge/Life Journal Log-000000?style=flat&logo=notion&logoColor=white" alt="Life Journal Log"></a><br>
+  <!-- 시버 아카이브 공간 -->
   <a href="https://www.notion.so/Archive-Log-23192a86c03b807e9185da0b5d57e2d9?pvs=21"><img src="https://img.shields.io/badge/Archive Log-000000?style=flat&logo=notion&logoColor=white" alt="Archive Log"></a>
 </p>
 
 <!-- https://github.com/tandpfun/skill-icons#readme -->
 ### 🚀 GitHub Stats 
 <!-- GitHub Stats (커밋 수, 레포 수, 언어 통계 등) -->
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artiordex&show_icons=true&theme=tokyonight) -->
-<!-- Top Languages (가장 많이 사용한 언어) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artiordex&layout=compact&langs_count=8&theme=tokyonight) -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=artiordex&show_icons=true&theme=tokyonight" height="180"/> &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artiordex&layout=compact&langs_count=8&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=artiordex&show_icons=true&theme=tokyonight" style="height:180px;"/> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artiordex&layout=compact&langs_count=8&theme=tokyonight" style="height:180px;"/>
 </p>
 
 <!-- GitHub Trophy (활동 메달 🏆) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=artiordex&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- GitHub Streak (연속 커밋 🔥) -->
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=artiordex&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) -->
+
 <!-- Contribution Snake (애니메이션 뱀 🐍) https://github.com/Platane/snk -->
 <!-- ![Snake animation](https://github.com/artiordex/artiordex/blob/output/github-contribution-grid-snake.svg) -->
 <!-- ![artiordex github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=artiordex) -->
